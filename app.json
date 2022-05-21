@@ -1,0 +1,11 @@
+{
+    "name": "amigos",
+    "description": "Um site para  representação de amigos",
+    "repository": "https://github.com/Brunnokkj/amigos",
+    "success_url": "/",
+    "keywords": ["php", "apache"],
+    "website": "https://github.com/Brunnokkj/amigos",
+    "env": {
+      "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  }
