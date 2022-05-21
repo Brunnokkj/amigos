@@ -6,13 +6,7 @@ Este é apenas um repositório simples para criar seu site de amigos facilmente
 <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
 </a>
 
-## Requisitos
-
-Para executar:
-
-- uma conta heroku (grátis) com o buildpack do php
-
-## Env
+## Importante
 
   - Substitua a `TOKEN_AQUI` para a token do seu bot na index.php
 
